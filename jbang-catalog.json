@@ -1,7 +1,7 @@
 {
   "aliases" : {
     "agentic-skills" : {
-      "script-ref" : "https://github.com/alt-Ash/agentic-skills-bundle/releases/download/v3.0.0/agentic-skills-3.0.0.jar",
+      "script-ref" : "https://github.com/alt-Ash/agentic-skills-bundle/releases/download/v3.1.0/agentic-skills-3.1.0.jar",
       "description" : "Interactive installer for AI agent skills, agents, commands, hooks and MCP servers",
       "java" : "21+"
     }
